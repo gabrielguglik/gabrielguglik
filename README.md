@@ -8,11 +8,11 @@
 
 ## 💻 Sobre Mim
 
-Sou um profissional de **Qualidade de Software** com **mais de 4 anos de experiência** em testes manuais e automatizados[cite: 2]. Atualmente, atuo como **QA Engineer** na **Itemize**, combinando testes manuais exploratórios baseados em risco com automação de UI e API em ecossistemas SaaS financeiros de alta complexidade.
+Sou um profissional de **Qualidade de Software** com **mais de 4 anos de experiência** em testes manuais e automatizados. Atualmente, atuo como **QA Engineer** na **Itemize**, combinando testes manuais exploratórios baseados em risco com automação de UI e API em ecossistemas SaaS financeiros de alta complexidade.
 
 Sou formado em **Sistemas de Informação pela Universidade Federal de Santa Catarina (UFSC)** e realizei um **Intercâmbio Acadêmico Internacional na Polytechnique Montréal (Canadá)** focado em Software e Computação. Meu TCC abordou a aplicação de **Inteligência Artificial na Automação de Testes**, realizando um estudo comparativo sobre o uso de Large Language Models (LLMs) na criação de testes de integração de software.
 
-No meu histórico profissional, também atuei no **Laboratório Bridge**, garantindo a qualidade de plataformas públicas de grande impacto social, como o aplicativo *Jornada do Estudante* (MEC), com mais de 5 milhões de downloads[cite: 2], além de ter iniciado minha trajetória com Python e Visão Computacional no **LabTrans/UFSC**.
+No meu histórico profissional, também atuei no **Laboratório Bridge**, garantindo a qualidade de plataformas públicas de grande impacto social, como o aplicativo *Jornada do Estudante* (MEC), com mais de 5 milhões de downloads, além de ter iniciado minha trajetória com Python e Visão Computacional no **LabTrans/UFSC**.
 
 - **Portfólio / GitHub:** https://github.com/gabrielguglik
 
@@ -89,7 +89,7 @@ Esta seção mostra alguns dos meus principais projetos e estudos focados em **Q
 
 I am a **Software Quality** professional with **over 4 years of experience** in manual and automated testing. I currently work as a **QA Engineer** at **Itemize**, combining risk-based manual exploratory testing with UI and API automation across complex SaaS workflows.
 
-I hold a degree in **Information Systems from the Federal University of Santa Catarina (UFSC)** (all coursework completed)[cite: 2] and completed an **International Academic Exchange at Polytechnique Montréal (Canada)** focusing on Software and Computing. My undergraduate thesis focused on **Artificial Intelligence applied to Test Automation**, conducting a comparative study on using Large Language Models (LLMs) to generate automated software integration tests.
+I hold a degree in **Information Systems from the Federal University of Santa Catarina (UFSC)** and completed an **International Academic Exchange at Polytechnique Montréal (Canada)** focusing on Software and Computing. My undergraduate thesis focused on **Artificial Intelligence applied to Test Automation**, conducting a comparative study on using Large Language Models (LLMs) to generate automated software integration tests.
 
 My background includes working at **Laboratório Bridge**, assuring the quality of high-impact public platforms such as the *Jornada do Estudante* app (Ministry of Education) with over 5 million downloads, as well as starting my career in Python and Computer Vision at **LabTrans/UFSC**.
 
