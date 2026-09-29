@@ -69,7 +69,7 @@ Esta seção mostra alguns dos meus principais projetos e estudos focados em **Q
 
 - **Bacharelado em Sistemas de Informação** - Universidade Federal de Santa Catarina (UFSC).
 - **Intercâmbio Acadêmico Internacional (Software e Computação)** - Polytechnique Montréal (Set/2026 - Dez/2026).
-- **AWS Academy Graduate** - Cloud Architecting (Training Badge)[cite: https://www.credly.com/go/qwnd0FPV].
+- **AWS Academy Graduate** - Cloud Architecting (Training Badge) (https://www.credly.com/go/qwnd0FPV).
 - **Idiomas:** Português (Nativo) | Inglês (C1) | Francês (A2).
 
 ---
@@ -148,7 +148,7 @@ This section showcases some of my main projects and studies focused on **Softwar
 
 - **Bachelor's Degree in Information Systems** - Federal University of Santa Catarina (UFSC).
 - **International Academic Exchange (Software & Computing)** - Polytechnique Montréal (Sep 2026 - Dec 2026).
-- **AWS Academy Graduate** - Cloud Architecting (Training Badge).
+- **AWS Academy Graduate** - Cloud Architecting (Training Badge) (https://www.credly.com/go/qwnd0FPV).
 - **Languages:** Portuguese (Native) | English (C1) | French (A2).
 
 ---
